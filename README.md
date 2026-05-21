@@ -13,6 +13,7 @@ Projede üç temel mimari kullanılmıştır:
 
 ## 3. Sonuçlar ve Grafikler
 Gerçekleştirilen çoklu algoritma navigasyon testleri sonucunda A*, Dijkstra, RRT ve RRT* algoritmalarının, engeller etrafından güvenli bir şekilde dolaşarak hedef tolerans alanına girmeyi başardığı ve görevi tamamladığı gözlemlenmiştir[cite: 1462]. EKF sensör füzyonu algoritması, simülasyondaki stokastik gürültüye rağmen gerçek konum ile tahmin arasındaki sapmayı dar bir bantta tutmayı başarmıştır[cite: 1465].
+
 1.<img width="627" height="312" alt="image" src="https://github.com/user-attachments/assets/d9ee4140-b705-4630-8fc2-dc91107185fa" />
 
 2.<img width="627" height="234" alt="image" src="https://github.com/user-attachments/assets/b80d8577-c898-498f-a830-ee2ee0f13b0a" />
