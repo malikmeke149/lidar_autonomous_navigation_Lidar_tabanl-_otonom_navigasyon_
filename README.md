@@ -13,10 +13,13 @@ Projede üç temel mimari kullanılmıştır:
 
 ## 3. Sonuçlar ve Grafikler
 Gerçekleştirilen çoklu algoritma navigasyon testleri sonucunda A*, Dijkstra, RRT ve RRT* algoritmalarının, engeller etrafından güvenli bir şekilde dolaşarak hedef tolerans alanına girmeyi başardığı ve görevi tamamladığı gözlemlenmiştir[cite: 1462]. EKF sensör füzyonu algoritması, simülasyondaki stokastik gürültüye rağmen gerçek konum ile tahmin arasındaki sapmayı dar bir bantta tutmayı başarmıştır[cite: 1465].
-<img width="627" height="312" alt="image" src="https://github.com/user-attachments/assets/d9ee4140-b705-4630-8fc2-dc91107185fa" />
-<img width="627" height="234" alt="image" src="https://github.com/user-attachments/assets/b80d8577-c898-498f-a830-ee2ee0f13b0a" />
-<img width="596" height="370" alt="image" src="https://github.com/user-attachments/assets/114cf153-ce5b-4887-b6d7-462d513047bc" />
-<img width="590" height="471" alt="image" src="https://github.com/user-attachments/assets/5067948c-208e-4a43-af9d-731c50783cb8" />
+1.<img width="627" height="312" alt="image" src="https://github.com/user-attachments/assets/d9ee4140-b705-4630-8fc2-dc91107185fa" />
+
+2.<img width="627" height="234" alt="image" src="https://github.com/user-attachments/assets/b80d8577-c898-498f-a830-ee2ee0f13b0a" />
+
+3.<img width="596" height="370" alt="image" src="https://github.com/user-attachments/assets/114cf153-ce5b-4887-b6d7-462d513047bc" />
+
+4.<img width="590" height="471" alt="image" src="https://github.com/user-attachments/assets/5067948c-208e-4a43-af9d-731c50783cb8" />
 
 *(Not: Simülasyondaki grafikler kodu çalıştırdığınızda otomatik olarak oluşturulmaktadır. Görsel çıktılar ayrıca depoda yer almaktadır.)*
 
